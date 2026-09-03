@@ -13,7 +13,9 @@
   "terminal.integrated.defaultProfile.windows": "Git Bash",
   "window.restoreWindows": "preserve",
   "workbench.editorAssociations": {
-    "*.md": "vscode.markdown.preview.editor"
+    "*.md": "vscode.markdown.preview.editor",
+    "*.py": "default",
+    "*.ipynb": "jupyter-notebook"
   },
   "workbench.colorTheme": "Dark+",
   "workbench.iconTheme": "vscode-icons",
